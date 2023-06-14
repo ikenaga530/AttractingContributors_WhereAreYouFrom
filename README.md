@@ -15,7 +15,7 @@
 4. 関優太
 5. 釈迦
 6. たけぉ(@teamfranktakeo)
-7.
+7. 何屋未来(@naniya_mirai)
 8.
 9.
 10.
