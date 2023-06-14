@@ -34,3 +34,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 3. [QQ](https://im.qq.com/macqq/index.shtml): This Mac app can communicate with chinese. is good app
 4. [google chrome](https://www.google.com/intl/ja_jp/chrome/): I am Windows user but it must be useful for MAC users too haha
 5. [Clipy](https://github.com/Clipy/Clipy): A Clipboard extension app for macOS.
+6. For mac i usually use iMessages,Itunes and wallet
