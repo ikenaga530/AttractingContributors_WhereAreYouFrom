@@ -16,6 +16,6 @@
 5. 釈迦
 6. たけぉ(@teamfranktakeo)
 7. 何屋未来(@naniya_mirai)
-8.
+8. 武者丸
 9.
 10.
