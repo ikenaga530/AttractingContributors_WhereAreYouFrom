@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 4. [google chrome](https://www.google.com/intl/ja_jp/chrome/): I am Windows user but it must be useful for MAC users too haha
 5. [Clipy](https://github.com/Clipy/Clipy): A Clipboard extension app for macOS.
 6. For mac i usually use iMessages,Itunes and wallet
+7. [istat Menus](https://bjango.com/mac/istatmenus/) is an advanced Mac system monitor for your menubar.
