@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 6. For mac i usually use iMessages,Itunes and wallet
 7. [istat Menus](https://bjango.com/mac/istatmenus/) is an advanced Mac system monitor for your menubar.
 8. [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/): TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic range control with deep musical flexibility. 
+9. [Zoom] This Mac app is convenient for people having meeting.
