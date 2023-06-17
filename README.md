@@ -18,4 +18,4 @@
 7. 何屋未来(@naniya_mirai)
 8. 武者丸
 9. 葛葉
-10.
+10. けんき(https://www.twitch.tv/kenki521)
