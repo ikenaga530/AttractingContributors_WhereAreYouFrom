@@ -17,5 +17,5 @@
 6. たけぉ(@teamfranktakeo)
 7. 何屋未来(@naniya_mirai)
 8. 武者丸
-9.
+9. けんき(https://www.twitch.tv/kenki521)
 10.
