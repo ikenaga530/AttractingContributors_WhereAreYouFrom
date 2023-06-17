@@ -36,3 +36,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/839
 5. [Clipy](https://github.com/Clipy/Clipy): A Clipboard extension app for macOS.
 6. For mac i usually use iMessages,Itunes and wallet
 7. [istat Menus](https://bjango.com/mac/istatmenus/) is an advanced Mac system monitor for your menubar.
+8. [Zoom] This Mac app is convenient for people having meeting.
