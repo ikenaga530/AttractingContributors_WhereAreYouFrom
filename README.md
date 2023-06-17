@@ -27,4 +27,5 @@ Please write the lanauges that you want to learn (Please write natural language 
 - German  
 - Chinese
 - Japanese
+- Spanish
 - Chinese
