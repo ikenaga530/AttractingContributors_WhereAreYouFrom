@@ -14,5 +14,5 @@ Please tell me about your hometown!
 8.  UK  
 9.  Nara  
 10.  Hyogo, Himeji  
-11.  Hokkaido,shiretoko
-12. Fukui
+11.  Hokkaido,shiretoko  
+12. Fukui  
